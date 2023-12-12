@@ -1,0 +1,15 @@
+.barra {
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 35px;
+    border-bottom: 2px;
+    border-bottom-color: black;
+  }
+
+.icones{
+    padding-left: 50px;
+    
+}
